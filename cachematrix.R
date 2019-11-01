@@ -1,7 +1,4 @@
 
-library(devtools)
-install_github("https://github.com/Rileycw4/ProgrammingAssignment2")
-
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
